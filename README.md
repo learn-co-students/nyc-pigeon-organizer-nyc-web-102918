@@ -1,4 +1,4 @@
-## NYC Pigeon Organizer
+member## NYC Pigeon Organizer
 
 ## Objectives
 
